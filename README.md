@@ -18,7 +18,8 @@ MiniOUT is implemented in Python and runs on Linux and require pre-installation 
 - BWA (Li and Durbin 2009); https://github.com/lh3/bwa
 - Mothur (Schloss et al. 2009); https://github.com/mothur/mothur
 - mafft; https://github.com/GSLBiotech/mafft
-.
+- Racon; https://github.com/isovic/racon
+
 Running MiniOUT 
 -------------
 
